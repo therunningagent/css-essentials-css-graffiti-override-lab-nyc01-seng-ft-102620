@@ -14,3 +14,5 @@ div#wall #tag-3.slick
 #wall #tag-4 
 
 div#wall .parent #tag-5.slick
+
+div#wall div.parent div:last-child div#tag-6
